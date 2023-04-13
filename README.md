@@ -25,3 +25,5 @@ Members = Number of community members that are in this anime's
 "group".
 
 Score = Score between 1 to 10 given by the user
+
+### book: :Read my project article on https://medium.com/@patilyashodatta/top-250-anime-2023-eda-project-b7a4c2e2925b
