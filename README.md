@@ -26,4 +26,4 @@ Members = Number of community members that are in this anime's
 
 Score = Score between 1 to 10 given by the user
 
-### Read my project article on https://medium.com/@patilyashodatta/top-250-anime-2023-eda-project-b7a4c2e2925b
+### Read my project article on   <a href="https://medium.com/@patilyashodatta">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
