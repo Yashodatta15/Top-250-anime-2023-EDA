@@ -1,4 +1,4 @@
-# Top-250-anime-2023-EDA
+# Top 250 anime 2023 EDA
 About dataset
 
 Rank = Position based in the score.
